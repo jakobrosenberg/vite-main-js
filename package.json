@@ -1,0 +1,22 @@
+{
+  "name": "vite-main-js",
+  "version": "0.0.1",
+  "description": "creates a dist/main.js on build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakobrosenberg/vite-main-js.git"
+  },
+  "keywords": [
+    "vite"
+  ],
+  "author": "jakobrosenberg@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jakobrosenberg/vite-main-js/issues"
+  },
+  "homepage": "https://github.com/jakobrosenberg/vite-main-js#readme"
+}
